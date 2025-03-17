@@ -1,10 +1,20 @@
-body{
-    background-color: indigo;
-    color: white;
+*{
+    margin: 0;
+    padding: 0;
 }
 
-a{
-    background-color: red;
-    color: green;
-    text-align: center;
+body{
+    height:  100yh;
+    box-sizing: border-box;
+    background-color: black;
+    color: #f6f6f6;
+}
+
+strong{
+    color:  #22d4fd;
+}
+
+.apresentao{
+    display: flex;
+    align-items: center;
 }
